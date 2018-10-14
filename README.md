@@ -29,6 +29,15 @@
 - Gamified tasks scheduled to your needs, to make sure you have those eyes just in the right condition
 
 
+
+### Project Demo
+1. [Introduction](https://www.youtube.com/watch?v=APgPeoKFCWU)
+2. [Product Demo](https://www.youtube.com/watch?v=ED3qGu7xV8g&t=12s)
+3. [Conclusion](https://www.youtube.com/watch?v=iGNO0wDuRBk)
+
+You can watch the entire playlist [here](https://www.youtube.com/watch?v=APgPeoKFCWU&list=PLD037I6c4DDwaD7KuIVEGIEMTVxKUXHpo)
+
+
 ------------------------------------------
 ### Run it on your machine
 
