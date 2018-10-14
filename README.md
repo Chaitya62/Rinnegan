@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px src="logo.jpg" style=></a>
+ <img width=200px src="./assets/logo.jpg" style=></a>
 </p>
 
 <h2 align="center">Rinnegan</h2>

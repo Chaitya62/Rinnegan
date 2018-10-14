@@ -28,7 +28,7 @@ BREAK_MESS = "You deserve a 5 mins break."
 BLINK_MESS = "Maintain 10-15 blinks per minute."
 LOOKAWAY_MESS = "Gotta look somewhere else for a while!"
 
-LOGO_PATH = './logo.ico'
+LOGO_PATH = './assets/logo.ico'
 
 called = False
 

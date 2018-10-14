@@ -16,7 +16,7 @@ def alarm(duration=3000, freq=440):
     # winsound.Beep(freq, duration)
 
     mixer.pre_init(frequency=44100, size=-16, channels=2, buffer=4096)
-    WAVFILE = './music.wav'
+    WAVFILE = './assets/music.wav'
     s = pygame.mixer.Sound(WAVFILE)
 
     # pygame.init()

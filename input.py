@@ -63,7 +63,7 @@ def loop(quitf=True):
         pygame.draw.rect(screen, purple, button)
         pygame.draw.rect(screen, orange, button1)
         pygame.draw.rect(screen, green, button2)
-        img = pygame.image.load('activity.png')
+        img = pygame.image.load('./assets/activity.png')
         screen.blit(img, (300,250))
         new_game_text = font.render("Walk Away", False, white)
         new_game_rect = new_game_text.get_rect(center=button.center)
